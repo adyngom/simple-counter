@@ -4,8 +4,10 @@
 
 #100daysofcode #beginner #intermediate 
 
+![Javascript Simple Counter](https://techlabs28.com/wp-content/uploads/2019/07/react-counter.gif)
+
 Streaming live Mon-Wed-Fri @ 5:30pm EST:
 
 youtube: [Subscribe - Ady Ngom on YouTube](https://www.youtube.com/channel/UC7yxqt1tzo4s_KoL5_ZV4Bg)
 
-twitch: [thejavascriptguy on Twitch](https://www.twitch.tv/thejavascriptguy)
+twitch: [Follow thejavascriptguy on Twitch](https://www.twitch.tv/thejavascriptguy)
